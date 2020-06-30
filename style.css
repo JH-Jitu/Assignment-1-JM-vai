@@ -126,6 +126,7 @@ section{
     text-align: center;
     margin-left: 34%;
     margin-right: 34%;
+    box-shadow: 5px 5px 5px rgb(207, 196, 196);
 }
 .link-button-footer:hover{
     color: white;
@@ -144,4 +145,7 @@ section{
 .client{
     font-size: 22px;
     color: rgb(52, 39, 59);
+}
+footer{
+    color: black;
 }
