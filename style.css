@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Signika', sans-serif;
+    color: rgb(110, 100, 116);
+}
+h2{
+    font-size: 25px;
+}
+.name{
+    color: rgb(71, 61, 77);
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 40px;
+}
+
+.first-part{
+    max-width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 5%;
+    margin-top: 9%;
+}
+.first-parts img{
+    max-width: 32%;
+    margin-top: 2%;
+    margin-left: 8%;
+
+}
+.clr{
+    clear: both;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(71, 61, 77), rgb(110, 100, 116));
+    padding: 7px 14px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 6%;
+    margin-bottom: 7%;
+}
+.link-button:hover{
+    color: white;
+    background: rgb(61, 52, 61);
+}
+
+.header{
+    background-image: url(header-bg.png);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.second-part img{
+    float: left;
+    max-width: 32%;
+    margin-top: 1%;
+    margin-left: 8%;
+    padding-left: 5%;
+}
+.second-parts{
+
+    max-width: 40%;
+    float: left;
+    margin-left: 8%;
+    margin-top: 11%;
+
+}
+.biography{
+    background-image: url(biography-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+section{
+    margin-bottom: -2%;
+    height: 600px;
+}
+
+.third-part-1 img{
+    max-width: 27%;
+    float: left;
+    margin-left: 8%;
+    margin-right: 0%;
+    padding-left: 2%;
+}
+.third-part-2 img{
+    max-width: 27%;
+    float: left;
+    margin-left: 01%;
+    margin-right: 01%;
+}
+.third-part-3 img{
+    max-width: 27%;
+    float: left;
+    margin-left: 0%;
+    margin-right: 8%;
+    padding-right: 2%;
+}
+
+.latest-work{
+    background-image: url(latest-work-bg.png);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    margin-top: -10%;
+    background-image: url(footer-bg.png);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+.link-button-footer{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(71, 61, 77), rgb(110, 100, 116));
+    padding: 12px 12px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 6%;
+    margin-bottom: 7%;
+    text-align: center;
+    margin-left: 34%;
+    margin-right: 34%;
+}
+.link-button-footer:hover{
+    color: white;
+    background: rgb(61, 52, 61);
+}
+.last-part{
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+.fc-color{
+    color: rgb(95, 5, 50);
+}
+
+.client{
+    font-size: 22px;
+    color: rgb(52, 39, 59);
+}
