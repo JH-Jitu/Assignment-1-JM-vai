@@ -158,3 +158,33 @@ section{
 footer{
     color: black;
 }
+.ordhek{
+    max-width: 40%;
+    float: left;
+    margin-top: 1%;
+    margin-left: 5%;
+    padding: 1%;
+    box-shadow: 20px 20px 40px gray;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-sizing: content-box;
+}
+.exp-area{
+    background-image: url(biography-bg.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#full-stack-baby{
+    border-top: 7px solid;
+    border-image-slice: 1;
+}
+#full-stack-babys{
+    border-top: 7px solid;
+    border-image-slice: 1;
+}
+.experience{
+    margin-top: 3%;
+    padding-left: 5%;
+    text-align: left;
+    font-size: 30px;
