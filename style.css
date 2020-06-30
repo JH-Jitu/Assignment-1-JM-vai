@@ -86,11 +86,17 @@ section{
     margin-right: 0%;
     padding-left: 2%;
 }
+.third-part-1 img:hover{
+    background: rgb(61, 52, 61);
+}
 .third-part-2 img{
     max-width: 27%;
     float: left;
     margin-left: 01%;
     margin-right: 01%;
+}
+.third-part-2 img:hover{
+    background: rgb(61, 52, 61);
 }
 .third-part-3 img{
     max-width: 27%;
@@ -98,6 +104,9 @@ section{
     margin-left: 0%;
     margin-right: 8%;
     padding-right: 2%;
+}
+.third-part-1 img:hover{
+    background: rgb(61, 52, 61);
 }
 
 .latest-work{
@@ -107,7 +116,7 @@ section{
     background-repeat: no-repeat;
 }
 
-.footer{
+.footer-part{
     margin-top: -18%;
     background-image: url(footer-bg.png);
     background-size: cover;
